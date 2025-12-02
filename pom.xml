@@ -32,4 +32,5 @@
     <module>model</module>
     <module>writer</module>
   </modules>
+
 </project>
